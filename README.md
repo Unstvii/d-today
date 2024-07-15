@@ -32,3 +32,12 @@
 - `PUT /targets/:id` - оновлення нотаток та статусу цілі.
 - `DELETE /targets/:id` - видалення цілі.
 - `PUT /complete_mission/:id` - завершення місії та її цілей.
+
+## Env.example
+
+USER=
+PASSWORD=
+DBNAME=
+HOST=
+PORT=
+SSLMODE=
